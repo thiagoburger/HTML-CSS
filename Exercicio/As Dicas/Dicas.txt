@@ -1,0 +1,46 @@
+CODIGO BASE:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+<> e </> São as tags que marcam inicio de fim do codigo.
+<!DOCTYPE html> significa que estamos usando o codigo modelo HTML 5.
+<html lang= " " significa qual idioma estação escrevendo.
+<head> </head> é onde vamos escreve as configurações do nosso site.
+<meta charset= "UTF-8"> permite escrever palavras com acentuações.
+<meta name="viewport" sigifica que seu site ira ocupar 100% da tela.
+content"width=device-width"
+initial-sclate=1.0 significa que a parcila tela escala de 1.0.
+<body> </body> é onde vamos escreve o conteudo do site.
+</html> fechamento do codigo.
+
+
+<tilte> </title> é o cabeçalho, nome que aparece na janela.
+<h1> </h1> são titulos.
+<p> </p> são paagrafos.
+<img> anexar imagens
+link:favicon
+<abbr> </abbr> descrever o significado de palavras abreviadas
+<ol> </ol> listas ordenadas (topicos dentro de <li> </li>)
+<ol type""> permite escolher o como será ordenado a lista.
+<ul> </ul> listas não ordenadas (topicos dentro de <li> </li>)
+<a href""> </a> tranformar palavra ou frase em link externo
+<a href"" target"_ blank"> </a> faz com que o link se abra em uma nova aba
+<a href"../"> </a> volta uma pasta onde está seu index
+href"../" type="aplicaticon/pdf" link para donwload de PDF
+href"../" type="aplicaticon/zip" link para donwload de ZIP
+
+Ctrl + shift + p = Envelopar
+Ctrl + espaço - localizar as imagens no search
+Lorem - texto "aleatorio"

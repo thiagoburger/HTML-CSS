@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>links</title>
+    <style>
+    body{font-family: Arial, Helvetica, sans-serif;}
+    a{color: red;text-decoration: none;font-weight: bold;}
+    a:visited{color: darkred;}
+    a:hover{text-decoration: underline;color: black;}
+    a:active{color: yellow;}
+    a::after {content: '[LINK]';text-decoration: none;font-weight: normal;color: darkgray;}
+    .especial{background-color: rgba(255, 0, 0, 0.438);}
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="https://g1.globo.com/" target="_blank">Página do G1</a></li>
+        <li><a href="https://www.terra.com.br/" class="especial">Página da UOL</a></li>
+        <li><a href="https://www.uol.com.br/">Página do Terra</a></li>
+    </ul>
+</body>
+</html>
